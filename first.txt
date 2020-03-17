@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is my text
+=======
+this is my text
+>>>>>>> de3126baffe1d0b255023a2674647e08b187b711
 git is a software tool and github is a service.it is hosted on the web.
